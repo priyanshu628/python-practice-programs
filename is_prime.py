@@ -1,6 +1,6 @@
 def is_prime(n):
     if n < 2:
-        return False  # 2 se chhote numbers prime nahi hote
+        return False  
     
     # Loop from 2 to n-1
     for i in range(2, n):
